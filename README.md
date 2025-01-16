@@ -70,8 +70,3 @@ For any questions or feedback, feel free to contact me and visit my GitHub Profi
 ```python
 
 ```
-
-
-```python
-
-```
