@@ -65,6 +65,3 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 ## Contact
 For any questions or feedback, feel free to contact me and visit my GitHub Profile https://github.com/JuliaMoc.
-```python
-
-```
