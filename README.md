@@ -5,6 +5,8 @@
 This project analyzes supermarket sales data from three supermarkets located in three different cities in Myanmar, using a dataset provided by Kaggle. The dataset spans a three-month period (January to March 2019) and contains valuable sales and customer data. The project involves data cleaning, exploratory data analysis (EDA), and the creation of insightful visualizations using Python and Tableau.
 The goal of this analysis is to derive insights from the data to help better understand sales performance across different supermarkets, cities, and product categories, as well as evaluate customer experience through ratings and performance trends by gender. This analysis aims to uncover the impact of customer satisfaction and demographics on sales, providing valuable insights into CRM strategies.
 
+Note: This is a self-initiated learning project using open-source data for practice and portfolio development.
+
 ## Project Components
 
 ### 1. Data Cleaning and Preparation
